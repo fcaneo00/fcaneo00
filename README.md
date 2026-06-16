@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Filippo Caneo 👋
 
-<!--
-**fcaneo00/fcaneo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏠 From Alghero
 
-Here are some ideas to get you started:
+📍 Based in Verona, Italy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Frontend Developer at [**RealT Technology**](https://www.linkedin.com/company/realt-technology/)
+
+🎓 Graduated from [**ITS Academy LAST**](https://www.linkedin.com/school/istituto-tecnico-superiore-its-academy-last/) - Digital Transformation Specialist (2021–2023)
+
+---
+
+### 🛠️ Skills
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt%204-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+---
+
+### 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filippo-caneo/)
